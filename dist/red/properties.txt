@@ -1,0 +1,9 @@
+dialNeedleColour=#ffffff
+dialTickInnerRadius=1.4
+dialTickOuterRadius=1.49
+displayIndicatorColour=#ffffff
+displayTextTitleColour=#ffffff
+displayTextValueColour=#fb874a
+displayTickColour=#ffffff
+graphLineColour=#fb874a
+updateFlasherColour=#fb874a
